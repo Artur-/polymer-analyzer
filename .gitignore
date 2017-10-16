@@ -4,5 +4,3 @@
 .idea
 npm-debug.log
 
-# lib is where the compiled output goes
-lib/
